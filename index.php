@@ -8,8 +8,13 @@
 // filename ; index.php
 /////////////////////////////////////
  ?>
- 
- 
+ <html>
+  <head>
+   <title>CRUD form modal with ajax</title>
+  <script src="jquery-2.1.4.min.js"></script>
+  <script src="meedun.js"></script>
+ </head>
+ <body>
  <!--***********************
       Modal Form
   *********************** -->
@@ -57,3 +62,5 @@
                             </div>
                         </div>
                     </div>
+</body>
+</html>

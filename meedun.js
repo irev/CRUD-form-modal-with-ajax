@@ -22,7 +22,7 @@
                
                           $.ajax({
                               type:"post",
-                              url:"function/process.php",
+                              url:"process.php",
                               data:"namas="+namas+"&umur="+umur,
                               success:function(data){
                                  $("#info").html(data);

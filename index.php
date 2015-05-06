@@ -11,11 +11,21 @@
  <html>
   <head>
    <title>CRUD form modal with ajax</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<!--Jquery-->
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
 		<link href="bootstrap.css" rel="stylesheet">
-		<script src="jquery-2.1.4.min.js"></script>
-		<script src="bootstrap.min.js"></script>	
-		<script src="bootstrap.js"></script>
-		<script src="meedun.js"></script>
+		<script type="text/javascript" src="jquery.jsonp-2.1.4.min.js"></script>
+		<script type="text/javascript" src="jquery-2.1.4.min.js"></script>
+		<script type="text/javascript" src="bootstrap.min.js"></script>	
+		<script type="text/javascript" src="bootstrap.js"></script>
+		<script type="text/javascript" src="meedun.js"></script>
  </head>
  <body>
  <!--***********************
